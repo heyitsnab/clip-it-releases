@@ -1,5 +1,5 @@
 {
-  "version": "6.0.1",
-  "url": "https://license.macbuff.com/download/macstash?src=update&v=6.0.1",
-  "notes": "MacStash 6.0.1: fixes from a full pre-release sweep \u2014 launch settings that stick, \u23181\u20139 always pastes the row you see, clearer trial and license copy, a tamper-resistant trial clock, and a faster menu bar launch."
+  "version": "1.0.0",
+  "url": "https://github.com/heyitsnab/clip-it-releases/releases/latest/download/ClipIt.dmg",
+  "notes": "MacStash is now Clip It! — same app, clearer name, and a fresh start. Deleting a clip now truly erases it, ⌘⌫ removes everything you have marked, ⌘A marks the whole list, and the picker opens in the same corner every time without ever dragging you to another Space."
 }
