@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/heyitsnab/clip-it-releases/releases/latest/download/ClipIt.dmg",
-  "notes": "Deleting is safe again: holding \u2318\u232b used to answer its own confirmation and erase everything marked. Clearing your history now really clears it. The keyboard cursor is visible at last, Space types a space in the search box, and the picker is faster with large clips. VoiceOver can use the picker properly."
+  "notes": "Clip It! no longer grows in memory as you use it. Looking at an image used to leave an uncompressed copy of it in RAM \u2014 about 16 MB a picture \u2014 and never release it, so the app quietly grew by hundreds of megabytes over a day. Images are now unpacked only while you are looking at them."
 }
