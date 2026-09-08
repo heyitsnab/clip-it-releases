@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/heyitsnab/clip-it-releases/releases/latest/download/ClipIt.dmg",
-  "notes": "MacStash is now Clip It! — same app, clearer name, and a fresh start. Deleting a clip now truly erases it, ⌘⌫ removes everything you have marked, ⌘A marks the whole list, and the picker opens in the same corner every time without ever dragging you to another Space."
+  "notes": "Deleting is safe again: holding \u2318\u232b used to answer its own confirmation and erase everything marked. Clearing your history now really clears it. The keyboard cursor is visible at last, Space types a space in the search box, and the picker is faster with large clips. VoiceOver can use the picker properly."
 }
