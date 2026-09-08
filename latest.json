@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/heyitsnab/clip-it-releases/releases/latest/download/ClipIt.dmg",
-  "notes": "Clip It! no longer grows in memory as you use it. Looking at an image used to leave an uncompressed copy of it in RAM \u2014 about 16 MB a picture \u2014 and never release it, so the app quietly grew by hundreds of megabytes over a day. Images are now unpacked only while you are looking at them."
+  "notes": "The picker now lists everything you asked it to keep. \"Items to keep\" goes to 10,000, but the list only ever showed the most recent 400 \u2014 the rest were saved and searchable, but no amount of scrolling reached them. Together with 1.0.2's memory fix, this is what made a higher limit safe."
 }
